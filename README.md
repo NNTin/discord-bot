@@ -124,3 +124,6 @@ Bot token passed like command-line argument:
 Bot token set as enviorment variable **BOT_TOKEN**:
 
 `pipenv run start`
+
+# Deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
